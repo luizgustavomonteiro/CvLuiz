@@ -14,5 +14,5 @@ This project is a personal CV website for Luiz Monteiro. It includes HTML, CSS, 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/luizgustavomonteiro/cvLuizMonteiro.git
+   git clone https://github.com/luizgustavomonteiro/Resume---Luiz-Gustavo-Monteiro.git
    ```
